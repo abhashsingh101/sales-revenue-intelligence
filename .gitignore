@@ -1,0 +1,32 @@
+# Python and Data Analysis Excludes
+
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+*.db
+
+# Environment variables
+.env
+
+# Power BI files
+*.pbix
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Node modules
+node_modules/
